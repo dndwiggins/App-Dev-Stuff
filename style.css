@@ -1,0 +1,26 @@
+h3 {
+
+    color: rgb(28, 102, 186);
+    font-family: Impact, sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px; 
+}
+
+.header {
+
+background-color: rgb(212, 206, 206);
+padding: 10px;
+border-radius: 10px;
+
+
+}
+
+.header h2 {
+
+    background-color: rgb(212, 206, 206);
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+}
+
+
